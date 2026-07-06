@@ -13,7 +13,7 @@
 - 담당: 프론트엔드 (React/TypeScript · Vercel 배포)
 
 ### [SMU-CLUB](https://github.com/smu-human/smu-club)
-상명대 동아리 정보·관리 플랫폼 — 흩어져 있던 교내 동아리 정보를 모으는, 기존에 없던 서비스를 직접 기획해 개발
+상명대 동아리 정보·관리 플랫폼 — 흩어져 있던 교내 동아리 정보를 모으는, 기존에 없던 서비스를 기획해 개발
 - Docker · nginx · GitHub Actions CI/CD 기반 서버 배포
 - 담당: 프론트엔드 (React)
 

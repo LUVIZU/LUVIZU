@@ -25,4 +25,4 @@
 - **2026 · Chaindrifter** — 핀테크 도메인 진입, KFIP 2026 본선
 
 ## 📫 Contact
-- Email: [이메일 주소]
+- Email: [lypyin3@gmail.com]

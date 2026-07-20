@@ -23,7 +23,7 @@
 - **2025 · 멋쟁이사자처럼 13기** — HTML/CSS/JS로 웹 개발 입문
   - 아이디어톤 본선 진출 · 교내해커톤 · 중앙해커톤 참가
 - **2025~ · SMU-CLUB** — React 전환, 기획부터 서버 배포·운영까지
-- **2026 · Chaindrifter** — 핀테크 도메인 진입, KFIP 2026 본선
+- **2026 · Chaindrifter** — 핀테크 도메인 진입, KFIP 2026 본선, FIN:NECT 2026 지역예선
 
 ## 📫 Contact
 - Email: lypyin3@gmail.com

@@ -9,8 +9,9 @@
 
 ### [Chaindrifter](https://github.com/ChainDrifters/XRPL_hackathon)
 외국인 단기 여행자의 면세환급·생활금융 절차를 XRPL 기반으로 간소화
-- **KFIP 2026 본선 진출** — 법인기업 75곳이 지원한 프로그램에서 학부생 팀으로 본선 12팀 선발 · 핀넥트 지역예선 진출
-- 담당: 프론트엔드 (React/TypeScript · Vercel 배포)
+- **KFIP 2026 본선 진출** — 법인기업 75곳이 지원한 프로그램에서 학부생 팀으로 본선 12팀 선발
+- **FIN:NECT 2026 챌린지 지역예선 진출** — 서류심사 통과, 전국 49팀 선발 (한국핀테크지원센터 주최 · 카카오뱅크 후원)
+- 담당: 프론트엔드 (React/TypeScript), 로고제
 
 ### [SMU-CLUB](https://github.com/smu-human/smu-club)
 상명대 동아리 정보·관리 플랫폼 — 흩어져 있던 교내 동아리 정보를 모으는, 기존에 없던 서비스를 기획해 개발

@@ -7,7 +7,7 @@
 
 ## 🏆 Projects
 
-### [Chaindrifter](https://github.com/ChainDrifters/XRPL_hackathon)
+### [Chaindrifters](https://github.com/ChainDrifters/XRPL_hackathon)
 외국인 단기 여행자의 면세환급·생활금융 절차를 XRPL 기반으로 간소화
 
 - **KFIP 2026 본선 진출** — 법인기업 75곳이 지원한 프로그램에서 학부생 팀으로 본선 12팀 선발

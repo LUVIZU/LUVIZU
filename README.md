@@ -21,8 +21,8 @@
 - Docker · nginx · GitHub Actions CI/CD 기반 서버 배포
 - 담당: 프론트엔드 (React)
 
-### 진로 추천 서비스 (졸업 프로젝트 · Team Goodeyedeer) 🚧
-GraphRAG 기반 인과관계 분석으로 상명대 학생의 진로를 추천하는 AI 서비스 — 진행 중
+### [Jobtology](https://github.com/SMU-GoodEyeDeer) (졸업 프로젝트 · Team Goodeyedeer)
+GraphRAG 기반 인과관계 분석으로 학생들의 진로를 추천하는 AI 서비스 — 진행 중
 
 - 추천 근거와 인과관계 그래프를 사용자가 탐색·이해할 수 있는 UI로 시각화
 - 담당: 프론트엔드 (React/TypeScript)
